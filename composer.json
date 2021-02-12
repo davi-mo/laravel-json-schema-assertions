@@ -1,5 +1,5 @@
 {
-    "name": "sixlive/laravel-json-schema-assertions",
+    "name": "davi-mo/laravel-json-schema-assertions",
     "description": "Laravel JSON Schema assertions",
     "keywords": [
         "sixlive",
@@ -8,7 +8,7 @@
         "json",
         "schema"
     ],
-    "homepage": "https://github.com/sixlive/laravel-schema-assertions",
+    "homepage": "https://github.com/davi-mo/laravel-json-schema-assertions",
     "license": "MIT",
     "authors": [
         {
